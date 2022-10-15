@@ -1,0 +1,38 @@
+body{background:#2d2b2b	;
+	margin:0 60px 10px 	100px;
+}
+
+.div-style{
+	padding:0px 150px 0px 150px;
+	width: 883px;
+	height:550px;
+ 	background-color:#4A4A4A;
+ 	margin:
+
+}
+
+.feature{color:yellow;text-indent:10px;}
+h1{font-family: arial, sans-serif ;font-size:20px;text-indent:10px;
+	color: white;       }
+.box-styling{
+			width:250px;
+			height:180px;
+			margin: 10px;
+			padding:10px 10px 0px 10px ;
+			border:1.5px solid #3d3838 ;
+			background-color:#5F5F5F;
+			color:white;
+			box-shadow:5px 5px 10px black;
+			border-radius:5px;
+			float:left;
+			
+}
+p{			font-family:arial,sans-serif;
+			font-size:14px;
+			text-align:justify-all; 
+
+}
+
+
+
+
