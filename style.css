@@ -1,38 +1,55 @@
-body{background:#2d2b2b	;
-	margin:0 60px 10px 	100px;
-}
-
-.div-style{
-	padding:0px 150px 0px 150px;
-	width: 883px;
-	height:550px;
- 	background-color:#4A4A4A;
- 	margin:
+*{box-sizing: border-box;}
+body{
+	width: 100%;
+	margin:0;
+	padding:0;
+	background-color:black;
+	font-family: 'Oswald', sans-serif;
 
 }
 
-.feature{color:yellow;text-indent:10px; font-size:11px;}
-h1{font-family: arial, sans-serif ;font-size:20px;text-indent:10px;
-	color: white;       }
-.box-styling{
-			width:250px;
-			height:180px;
-			margin: 10px;
-			padding:10px 10px 0px 10px ;
-			border:1.5px solid #3d3838 ;
-			background-color:#5F5F5F;
-			color:white;
-			box-shadow:5px 5px 10px black;
-			border-radius:5px;
-			float:left;
-			
-}
-p{			font-family:arial,sans-serif;
-			font-size:14px;
-			text-align:justify-all; 
+.container{ width:90% 
+			margin:auto;
+			background-color:#202020;
+			display: table;
+			padding:0 100px 30px;
+
 
 }
+.boxstyle{
+					width:30%;
+					background-color:#505050;
+					height:250px;
+					float: left;
+					display:table;
+					padding:30px;
+					margin:1.5%;
+					box-shadow:0 0 10px 10px #101010 ;	
+}
+.title{
+			margin:0;
+			padding:0;
+			color: white;
+			font-size:20px;
 
 
+}
+.paragraph{
 
+			margin:0;
+			padding-top:20px;
+			color:#E0E0E0;
+			font-size:15px;
+}
+.feature{	color: yellow;
+			padding-top:20px;
+			margin:0 20px;
+			margin-bottom:20px;
+			font-size:13px; 
+}
+.feature-title{	color: white;
+				padding:0;
+				margin:0 20px;
+				font-size:40px	
 
+}
